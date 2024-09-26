@@ -1,1 +1,1 @@
-# deep_learning
+# Deep Learning LinkedIn training material examples
